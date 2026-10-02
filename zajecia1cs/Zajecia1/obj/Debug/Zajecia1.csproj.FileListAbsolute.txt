@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Zajecia1\bin\Debug\Zajecia1.exe.config
+C:\Users\Student\Desktop\Zajecia1\bin\Debug\Zajecia1.exe
+C:\Users\Student\Desktop\Zajecia1\bin\Debug\Zajecia1.pdb
+C:\Users\Student\Desktop\Zajecia1\obj\Debug\Zajecia1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Zajecia1\obj\Debug\Zajecia1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Zajecia1\obj\Debug\Zajecia1.exe
+C:\Users\Student\Desktop\Zajecia1\obj\Debug\Zajecia1.pdb

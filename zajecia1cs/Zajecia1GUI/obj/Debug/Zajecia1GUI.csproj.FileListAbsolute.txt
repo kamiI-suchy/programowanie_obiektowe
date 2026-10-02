@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Zajecia1GUI\bin\Debug\Zajecia1GUI.exe.config
+C:\Users\Student\Desktop\Zajecia1GUI\bin\Debug\Zajecia1GUI.exe
+C:\Users\Student\Desktop\Zajecia1GUI\bin\Debug\Zajecia1GUI.pdb
+C:\Users\Student\Desktop\Zajecia1GUI\obj\Debug\Zajecia1GUI.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Zajecia1GUI\obj\Debug\Zajecia1GUI.Form1.resources
+C:\Users\Student\Desktop\Zajecia1GUI\obj\Debug\Zajecia1GUI.Properties.Resources.resources
+C:\Users\Student\Desktop\Zajecia1GUI\obj\Debug\Zajecia1GUI.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Zajecia1GUI\obj\Debug\Zajecia1GUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Zajecia1GUI\obj\Debug\Zajecia1GUI.exe
+C:\Users\Student\Desktop\Zajecia1GUI\obj\Debug\Zajecia1GUI.pdb
